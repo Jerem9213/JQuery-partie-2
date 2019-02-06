@@ -1,0 +1,23 @@
+.green{
+  background-color: green;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+button{
+  border-radius: 20px;
+  size:20px;
+  border-color: #545151;
+}
+.buto{
+margin-left: 40%;
+
+}
+.color{
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin : 5px;
